@@ -14,4 +14,5 @@ I started coding using ruby on rails back in 2014 and attending hackathons all o
 I do magic tricks since high school, I told you I was not kidding :( 
 </br>
 I also make Music as Magiobus, Exnovias and Ex Primos, been collaborating with other artists too.
+</br>
 You can listen to my music here => [Spotify](https://open.spotify.com/playlist/3ZfzaNPrm2GnsFksYXzzrE?si=8442e32607334691)
