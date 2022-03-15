@@ -5,7 +5,7 @@
 
 I'm currently working on <a href="https://ninogamer.com">ninogamer.com</a> , an on demand merch platform to help creators sell their merch without hassles in latin america.
 
-**Currently doing React + Nextjs + MongoDB. I love the stack**  
+**Currently doing React + Nextjs + TailwindCSS + MongoDB. I love the stack**  
 
 I started coding using ruby on rails back in 2014 and attending hackathons all over Mexico and US. Doing projects from scratch is something that I really enjoy,  it requires not only tech knowledge, but to change hats often to solve other kinds of problems. 
 
